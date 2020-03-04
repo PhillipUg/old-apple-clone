@@ -1,13 +1,11 @@
 # old-apple-clone
-This is a clone of the old apple website. In this project emphasis is on gradients and backgrounds.
-
+This is a clone of the old apple website.
 <br>
 <br>
-<img src="assets/screen1.jpg" width="300"> 
-<img src="assets/screen.jpg" width="300">
+<img src="assets/screen1.jpg" width="300"> <img src="assets/screen.jpg" width="300">
 <br>
 
-In this project, my aim here was to try and replicate the gradient and background features of this page.
+In this project, my aim was to try and replicate the gradient and background features of this page.
 
 There are some elements on this page which are produced with Javascript but my objective in this project wasn't to give this page functionality.
 
@@ -16,7 +14,7 @@ There are some elements on this page which are produced with Javascript but my o
   * CSS
 
 ## Live demo
-https://phillipug.github.io/old-apple-clone/
+[Live Demo Link to the page i built](https://phillipug.github.io/old-apple-clone/)
 
 ## Getting started
 
