@@ -1,0 +1,24 @@
+{
+  "name": "old-apple-clone",
+  "version": "1.0.0",
+  "description": "This is a clone of the old apple website. In this project emphasis is on gradients and backgrounds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhillipUg/old-apple-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhillipUg/old-apple-clone/issues"
+  },
+  "homepage": "https://github.com/PhillipUg/old-apple-clone#readme",
+  "devDependencies": {
+    "stylelint": "^13.2.0",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
